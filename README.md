@@ -1,2 +1,2 @@
 # OneTap
-A place for all your links. Acees them just with one tap.
+A place for all your links. Access them just with one tap.
